@@ -1,3 +1,4 @@
+# Lab 1, 2 https://github.com/KMS74/Vue-Lab1-2
 # my-vue-app
 
 This template should help get you started developing with Vue 3 in Vite.
